@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on nothing in particular.
-- 🌱 I’m currently learning HTML/CSS/JS.
-- 👯 I’m looking to collaborate on front-end projects.
+- 🔭 I’m currently working on getting my degree.
+- 🌱 I’m currently learning HTML/CSS/JS, Python, PHP/Laravel.
+- 👯 I’m looking to collaborate on back-end projects.
 - 🤔 I’m looking for help with learning programming.
 - 💬 Ask me about me.
 - 📫 How to reach me: pedro.paez@epn.edu.ec.
